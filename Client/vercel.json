@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://recipe-generator-68f8.onrender.com/api/$1"
+    }
+  ]
+}
